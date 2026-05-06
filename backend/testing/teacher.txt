@@ -1,0 +1,10 @@
+
+Q1: What is polymorphism in OOP? [5 marks]
+Answer: Polymorphism allows objects of different classes to be treated as objects of a common superclass. It enables one interface to be used for different data types. Key forms are method overriding and method overloading.
+Marks: 5
+Rubric: Must mention multiple forms, superclass concept, and give an example.
+
+Q2: What is the difference between a stack and a queue? [5 marks]
+Answer: A stack is LIFO (Last In First Out) — the last element added is the first removed. A queue is FIFO (First In First Out) — the first element added is the first removed. Stack uses push/pop, queue uses enqueue/dequeue.
+Marks: 5
+Rubric: Must mention LIFO/FIFO, give real-world or code examples.

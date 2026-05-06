@@ -1,0 +1,28 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.7"
+dependencies = [
+    "fastapi>=0.110.0",
+    "uvicorn[standard]>=0.29.0",
+    "passlib[bcrypt]>=1.7.4",
+    "pydantic[email]>=2.6.0",
+    "python-dotenv>=1.0.0",
+    "python-jose>=3.3.0",
+    "supabase>=2.0.0",
+    "argon2-cffi>=25.1.0",
+    "mailtrap>=2.5.0",
+    "resend>=2.29.0",
+    "mpi4py>=4.1.1",
+    "stripe>=15.0.1",
+    "ipykernel>=7.2.0",
+    "llama-cloud>=2.4.1",
+    "sentence-transformers>=5.4.1",
+    "langchain-core>=1.3.2",
+    "langchain-groq>=1.1.2",
+    "langgraph>=1.1.9",
+    "python-multipart>=0.0.27",
+    "langchain>=1.2.17",
+]

@@ -1,0 +1,64 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.pyre/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Misc
+*.swp
+*.tmp
+*.cache
+
+# Supabase
+supabase/.cache/
+
+# Optional: ignore local database files
+*.sqlite3
+
+# Frontend
+/frontend/node_modules/
+/frontend/dist/
+
+# Backend
+/backend/__pycache__/
+/backend/.venv/
+/backend/*.pyc
+/backend/*.pyo
+/backend/*.pyd
+/backend/.Python
