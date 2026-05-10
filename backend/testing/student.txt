@@ -1,4 +1,0 @@
-
-Q1: Polymorphism means one thing can take many forms. In OOP it lets different classes use the same method name but behave differently. For example, a draw() method on Circle and Square does different things.
-
-Q2: Stack is LIFO, like a pile of plates. Queue is FIFO, like a line at a store. Stack has push and pop operations.
